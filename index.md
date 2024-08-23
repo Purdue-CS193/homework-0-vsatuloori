@@ -1,5 +1,5 @@
 # Vishruth Satuloori's First CS193 Homework
-- learning things we wouldn't in "nomral" CS classes
+- learning things we wouldn't in "normal" CS classes
 - instructors are students
 
 ```markdown
