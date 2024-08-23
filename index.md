@@ -19,8 +19,8 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Learning things I wouldn't in other classes
-- the instructors being students
+- Bulleted
+- List
 
 1. Numbered
 2. List
